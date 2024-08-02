@@ -18,7 +18,9 @@ https://discord.com/users/878258965237100574 Incharilla (Owner)
 
 https://discord.com/users/797531590711705610 Star (Co Owner)
 
-## The Discord Is 
+## The Discord Is: https://discord.gg/tDcVyCSunR
+
+## Find Us Here: https://guns.lol/lex.aim
 
 # Thank You Baby Hamsta The Owner Of Aimmy For The Template Of V1.
 
