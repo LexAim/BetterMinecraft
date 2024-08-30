@@ -1,0 +1,29 @@
+{
+    "schemaVersion": 1,
+    "id": "betterminecraft",
+    "version": "${version}",
+  
+    "name": "Better Minecraft Mod",
+    "description": "A mod that improves Minecraft with Enderite and Dragon Scales.",
+    "authors": [
+      "Your Name"
+    ],
+    "contact": {
+      "discord": "https://discord.gg/your-discord-server-link"
+    },
+  
+    "license": "MIT",
+    "environment": "*",
+    "entrypoints": {
+      "main": [
+        "com.betterminecraft.BetterMinecraftMod"
+      ]
+    },
+    "depends": {
+      "fabricloader": ">=0.12.5",
+      "fabric": "*",
+      "minecraft": "1.21.x",
+      "java": ">=21"
+    }
+  }
+  
